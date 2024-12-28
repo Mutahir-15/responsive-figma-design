@@ -3,7 +3,7 @@ import { FaArrowRight } from "react-icons/fa";
 
 function YourWork() {
   return (
-    <main className="bg-tertiary p-3 md:p-5 lg:p-16">
+    <main className="bg-tertiary p-3 md:p-5 lg:p-36">
       <section className="max-w-[1440px] mx-auto text-center text-white">
         <div>
           <h1 className="text-2xl leading-[77.5px] lg:text-[64px] font-bold">

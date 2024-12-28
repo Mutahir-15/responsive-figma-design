@@ -14,7 +14,7 @@ function WorkManagement() {
                 <p>
                 Images, videos, PDFs and audio files are supported. Create math expressions and <br/>diagrams directly from the app. Take photos with the mobile app and save them<br/> to a note.
                 </p>
-                <button className="flex bg-[#4F9CF9] text-secondary rounded-md px-4 py-2 gap-2 lg:gap-3 lg:mt-3">
+                <button className="flex mt-5 lg:mt-10 mb-5 bg-[#4F9CF9] text-secondary rounded-md px-4 py-2 gap-2 lg:gap-3 lg:mt-3">
                   Get Started <FaArrowRight />
                 </button>
               </div>

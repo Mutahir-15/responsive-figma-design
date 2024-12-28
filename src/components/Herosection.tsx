@@ -11,12 +11,12 @@ function Herosection() {
             <h1 className="text-2xl leading-[77.5px] lg:text-[64px] font-bold">
               Get More Done with whitepace
             </h1>
-            <p>
+            <p className="mt-5 lg:mt-10">
               Project management software that enables your teams to
               collaborate, plan,
               <br /> analyze and manage everyday tasks
             </p>
-            <button className="flex bg-[#4F9CF9] text-secondary rounded-md px-4 py-2 gap-2 lg:gap-3 lg:mt-3">
+            <button className="flex mt-5 mb-5 lg:mt-10 bg-[#4F9CF9] text-secondary rounded-md px-4 py-2 gap-2 lg:gap-3 lg:mt-3">
               Try Whitespace Free <FaArrowRight />
             </button>
           </div>

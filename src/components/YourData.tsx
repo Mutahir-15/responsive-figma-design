@@ -4,7 +4,7 @@ import { FaArrowRight } from "react-icons/fa";
 
 function YourData() {
   return (
-     <main className="bg-quaternary text-[#212529] lg:p-24">
+     <main className="bg-quaternary text-[#212529] lg:p-16">
               <section className="max-w-[1440px] mx-auto">
                 <div className=" grid grid-cols-1 lg:grid-cols-2 justify-center items-center">
                   <div>
