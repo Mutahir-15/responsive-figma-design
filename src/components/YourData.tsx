@@ -12,7 +12,7 @@ function YourData() {
                     100% your data
                     </h1>
                     <p>
-                    The app is open source and your notes are saved to an open format, so you'll always have access<br/> to them. Uses End-To-End Encryption (E2EE) to secure your notes and ensure no-one but<br/>
+                    The app is open source and your notes are saved to an open format, so you`&apos;` always have access<br/> to them. Uses End-To-End Encryption (E2EE) to secure your notes and ensure no-one but<br/>
                      yourself can access them.
                     </p>
                     <button className="flex bg-[#4F9CF9] text-secondary rounded-md px-4 py-2 gap-2 lg:gap-3 lg:mt-3">
